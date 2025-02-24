@@ -12,6 +12,6 @@
         
         
     
-    "pages": [{"date":"2025-02-24","image":"","imageAlt":"","link":"http://localhost:41231/posts/myposta_2/","summary":"otra cosa","tags":[],"text":"otra cosa\n","title":"Myposta_2"},{"date":"2025-02-24","image":"","imageAlt":"","link":"http://localhost:41231/posts/myposta_1/","summary":"Aca va algo","tags":[],"text":"aca va algo\n","title":"Myposta_1"}]
+    "pages": [{"date":"2025-02-24","image":"","imageAlt":"","link":"https://standard-error-blog.github.io/posts/myposta_2/","summary":"otra cosa","tags":[],"text":"otra cosa\n","title":"Myposta_2"},{"date":"2025-02-24","image":"","imageAlt":"","link":"https://standard-error-blog.github.io/posts/myposta_1/","summary":"Aca va algo","tags":[],"text":"aca va algo\n","title":"Myposta_1"}]
 }
 
