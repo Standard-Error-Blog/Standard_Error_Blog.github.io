@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Standard Error Blog</title>
-    <link>https://Standard-Error-Blog.io/</link>
+    <link>http://localhost:39637/</link>
     <description>Recent content on Standard Error Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2025 09:49:30 -0300</lastBuildDate><atom:link href="https://Standard-Error-Blog.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://Standard-Error-Blog.io/img/icon.svg</icon>
+    <lastBuildDate>Mon, 24 Feb 2025 09:49:30 -0300</lastBuildDate><atom:link href="http://localhost:39637/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:39637/img/icon.svg</icon>
     
     
     <item>
       <title>Myposta_1</title>
-      <link>https://Standard-Error-Blog.io/posts/myposta_1/</link>
+      <link>http://localhost:39637/posts/myposta_1/</link>
       <pubDate>Mon, 24 Feb 2025 09:49:30 -0300</pubDate>
       
-      <guid>https://Standard-Error-Blog.io/posts/myposta_1/</guid>
+      <guid>http://localhost:39637/posts/myposta_1/</guid>
       <description><![CDATA[<p>Aca va algo</p>
 ]]></description>
       
